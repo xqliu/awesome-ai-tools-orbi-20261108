@@ -1378,6 +1378,8 @@ Automatically generate code from scratch, ask questions, get explanations, refac
 
 128.  [MartinLoop](https://martinloop.com/) 👉 Control plane for autonomous AI coding agents with budget caps, policy checks, verifier gates, rollback evidence, and inspectable run records.
 
+129.  [Orbi](https://orbi.build/?ref=dir-pingan-ai-tools) 👉 GitHub issue delivery with separate implementation and review sessions, fixes, tests, CI-gated merge, and separately requested releases. Open-source and self-hostable; [source code](https://github.com/orbi-build/orbi).
+
 ## 4. <a name='Business'></a>👔 Business
 
 1. [AI Review Reply Assistant](https://www.mara-solutions.com/) 👉 AI review response generator: Reply easier and faster than ever to every customer review with individual answers written by your personal AI assistant. No templates needed.
